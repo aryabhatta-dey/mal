@@ -1,0 +1,4 @@
+AllowShortFunctionsOnASingleLine: None
+BreakBeforeBraces: Linux
+IndentWidth: 8
+TabWidth: 8
